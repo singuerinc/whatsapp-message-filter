@@ -1,12 +1,12 @@
 {
   "name": "whatsapp-message-filter",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Filter a chat history file from Whatsapp",
   "author": "singuerinc <nahuel.scotti@gmail.com>",
-  "bin" : {
-    "whatsapp-message-filter" : "./lib/index.js"
+  "bin": {
+    "whatsapp-message-filter": "./lib/index.js"
   },
-  "main": "./lib/index.js",
+  "main": "./lib/what.js",
   "repository": "singuerinc/whatsapp-message-filter",
   "license": "MIT",
   "dependencies": {
@@ -18,6 +18,15 @@
     "chat"
   ],
   "files": [
-    "lib/index.js"
-  ]
+    "lib/index.js",
+    "lib/what.js"
+  ],
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "istanbul": "^0.4.5",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha -- test"
+  }
 }
