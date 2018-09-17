@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/singuerinc/whatsapp-message-filter.svg?style=svg)](https://circleci.com/gh/singuerinc/whatsapp-message-filter) [![codecov](https://codecov.io/gh/singuerinc/whatsapp-message-filter/branch/master/graph/badge.svg)](https://codecov.io/gh/singuerinc/whatsapp-message-filter) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/fe4450e813b64cf48009408023bf2ac5)](https://www.codacy.com/app/nahuel.scotti/whatsapp-message-filter)
+
 # WhatsApp message filter
 
 Filter a chat history file
