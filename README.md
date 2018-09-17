@@ -6,8 +6,9 @@ Filter a chat history file
 
 ```bash
 npm install -g whatsapp-message-filter
-// or
+# or
 yarn global add whatsapp-message-filter
+```
 
 # Usage
 
@@ -16,6 +17,6 @@ yarn global add whatsapp-message-filter
 
 ```bash
 whatsapp-message-filter --input ./file.txt --message "great!"
-// or
+# or
 npx whatsapp-message-filter --input ./file.txt --message "great!"
 ```
