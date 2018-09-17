@@ -5,3 +5,9 @@
 commander@^2.18.0:
   version "2.18.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.18.0.tgz#2bf063ddee7c7891176981a2cc798e5754bc6970"
+
+whatsapp-message-filter@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/whatsapp-message-filter/-/whatsapp-message-filter-0.0.1.tgz#2a3d9b1b9e044a1742ee9efdef4713c1b9e6f825"
+  dependencies:
+    commander "^2.18.0"
