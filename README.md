@@ -1,4 +1,4 @@
-# Whatsapp message filter
+# WhatsApp message filter
 
 Filter a chat history file
 
@@ -13,8 +13,10 @@ Filter a chat history file
 # npm
 npm install -g whatsapp-message-filter
 whatsapp-message-filter --input ./file.txt --message "great!"
+
 # npx
 npx whatsapp-message-filter --input ./file.txt --message "great!"
+
 # yarn
 yarn global add whatsapp-message-filter
 npx whatsapp-message-filter --input ./file.txt --message "great!"
@@ -25,6 +27,7 @@ npx whatsapp-message-filter --input ./file.txt --message "great!"
 ```bash
 # npm
 npm install whatsapp-message-filter
+
 # or yarn
 yarn add whatsapp-message-filter
 ```
