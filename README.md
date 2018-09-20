@@ -1,4 +1,6 @@
-[![CircleCI](https://circleci.com/gh/singuerinc/whatsapp-message-filter.svg?style=svg)](https://circleci.com/gh/singuerinc/whatsapp-message-filter) [![codecov](https://codecov.io/gh/singuerinc/whatsapp-message-filter/branch/master/graph/badge.svg)](https://codecov.io/gh/singuerinc/whatsapp-message-filter) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/fe4450e813b64cf48009408023bf2ac5)](https://www.codacy.com/app/nahuel.scotti/whatsapp-message-filter)
+[![Codacy grade](https://img.shields.io/codacy/grade/fe4450e813b64cf48009408023bf2ac5.svg?style=flat-square)](https://www.codacy.com/app/nahuel.scotti/whatsapp-message-filter)
+[![CircleCI](https://img.shields.io/circleci/project/github/singuerinc/whatsapp-message-filter/master.svg?style=flat-square)](https://circleci.com/gh/singuerinc/whatsapp-message-filter)
+[![Codecov](https://img.shields.io/codecov/c/github/singuerinc/whatsapp-message-filter.svg?style=flat-square)](https://codecov.io/gh/singuerinc/whatsapp-message-filter)
 
 # WhatsApp message filter
 
